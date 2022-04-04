@@ -17,3 +17,18 @@
 {
     width: 300px;
 }
+
+body
+{
+    background: #fd0;
+}
+h1{
+    font-family: 'Century Gothic', 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4
+{
+    color: #f55;
+}
